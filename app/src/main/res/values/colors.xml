@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FC5830</color>
+    <color name="colorPrimaryDark">#E44B27</color>
+    <color name="colorAccent">#795548</color>
+
+    <color name="transparent">#69000000</color>
+    <color name="toolbar_back_details">#617D8A</color>
+    <color name="translucid_black">#c1000000</color>
+    <color name="rating_btn">#F2792C</color>
+</resources>
